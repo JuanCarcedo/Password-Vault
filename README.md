@@ -6,6 +6,10 @@ _This program can:_
   + It will be copied into your clipboard when you generate it.
 + Save in your machine your passwords (offline).
 
+  
+### Version Updates:  
++ v2 -- 2023/02/03 - New GUI and minor changes in logics.
+
 ## Instructions
 - Create a Fork of the repository.
 - Open your favourite IDE (I use [PyCharm](https://www.jetbrains.com/pycharm/)).

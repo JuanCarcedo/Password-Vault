@@ -1,7 +1,6 @@
-# -*- coding: utf-8 -*-
 """
 Created on Wed Jul 20 16:17:24 2022
-V2 02/2023 - Copy to clipboard deleted. Import pandas deleted.
+- V2 03/02/2023 - Copy to clipboard deleted. Import pandas deleted.
 Generates random passwords:
     8/32 characteres long
     At least one letter

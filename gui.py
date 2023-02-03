@@ -4,7 +4,7 @@
     :copyright: (c) 2022-2023 Juan Carcedo, All rights reserved
     :licence: MIT, see LICENSE.txt for further details.
     Updates:
-    - V2 used with customtkinter by TomSchimansky [https://github.com/TomSchimansky/CustomTkinter]
+    - V2 02/2023 used with customtkinter by TomSchimansky [https://github.com/TomSchimansky/CustomTkinter]
 """
 # GUI
 import tkinter as tk

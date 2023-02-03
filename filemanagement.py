@@ -1,7 +1,7 @@
 """
     filemanagement.py
     Controls the flow between the program and the files.
-    :copyright: (c) 2022 Juan Carcedo, All rights reserved
+    :copyright: (c) 2022-2023 Juan Carcedo, All rights reserved
     :licence: MIT, see LICENSE.txt for further details.
 """
 import json

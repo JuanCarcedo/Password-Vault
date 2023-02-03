@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
 """
 Created on Thu Jul 21 13:46:58 2022
 Updated on Oct 28 2022
-V2 - 02/2023 - InterfaceManager called App
-Password generator and storage
+ - V2 - 02/2023 - InterfaceManager called App
+Password Vault
 @author: Juan CA
 """
 from gui import App
